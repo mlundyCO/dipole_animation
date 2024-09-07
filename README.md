@@ -59,7 +59,7 @@ You can easily customize the following parameters in the code:
 TODO
 The code generates an animation of electric field lines evolving over time, as shown below:
 
-![Example Animation](example.gif)
+![Example Animation](electric_field_lines_animation.gif)
 
 ## References
 [1] S. J. Orfanidis, *Electromagnetic Waves and Antennas*. Rutgers University, 2016. Available at: http://www.ece.rutgers.edu/~orfanidi/ewa/

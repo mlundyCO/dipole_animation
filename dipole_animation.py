@@ -37,14 +37,14 @@ def update(t):
 
 # Step 5: Create the animation
 # Define the range of t values for the animation
-t_values = np.linspace(0, 50, 1000)  # Adjust t range and number of frames
+t_values = np.linspace(0, 5, 20)  # Adjust t range and number of frames
 
 # Use FuncAnimation to create the animation
 ani = FuncAnimation(fig, update, frames=t_values, interval=100)
 
-# Step 6: Show the animation
-plt.show()
-
 # If you want to save the animation to a file (e.g., GIF or MP4), you can do so like this:
 # ani.save('electric_field_lines_animation.gif', writer='imagemagick', fps=10)
 # ani.save('electric_field_lines_animation.mp4', writer='ffmpeg', fps=10)
+
+# Step 6: Show the animation
+plt.show()
