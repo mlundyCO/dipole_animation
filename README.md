@@ -56,7 +56,6 @@ You can easily customize the following parameters in the code:
 - **Animation Speed**: Adjust the `interval` parameter in `FuncAnimation` to control the speed of the animation.
 
 ## Example Output
-TODO
 The code generates an animation of electric field lines evolving over time, as shown below:
 
 ![Example Animation](electric_field_lines_animation.gif)
